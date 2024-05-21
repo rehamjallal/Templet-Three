@@ -325,7 +325,7 @@ ul {
     left: 0;
 }
 
-/* start megamenu */
+/* start meg amenu */
 .mega-menu {
     position: absolute;
     padding: 1.88rem;
@@ -784,7 +784,7 @@ ul {
 
 .testimonials .box {
     position: relative;
-    background-color:white;
+    background-color: white;
     box-shadow: 0 2px 4px rgb(0 0 0 / 7%);
     padding: 1.25rem;
     border-radius: 6px;
@@ -1404,7 +1404,7 @@ ul {
     position: absolute;
     writing-mode: vertical-lr;
     background-color: var(--main-color);
-    color:white;
+    color: white;
     font-weight: bold;
     padding: 0.63rem 0.63rem 2.2rem 0.63rem;
     font-size: 1.13rem;
@@ -1482,7 +1482,7 @@ ul {
 
 .pricing-holder .box a:hover {
     background-color: var(--main-color-alt);
-    color:white;
+    color: white;
     border-color: var(--main-color-alt);
 }
 
